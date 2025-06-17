@@ -30,6 +30,13 @@ DCRE’s intelligence is not computed; it is tuned. The Resonance Protocol gover
 - Intentive proximity mapping: Going beyond keyword matching to map queries against intent vectors.
 - Entropy gates: Controlled randomness allows the system to escape overfitted deterministic grooves and uncover unexpected yet meaningful paths—akin to butterfly effects in chaotic systems.
 
+#### Empathic Realignment via Misaligned Attractors
+Beyond retrieval and resonance lies the capacity for graceful correction.
+Within the Intent Recognizer Layer, we introduce an Empathic Intent Modulator that simulates a field of attractors—each with intent vectors, directional force, and baseline affinity. When agent alignment drifts, traditional systems collapse into confusion or override intent.
+But here, force is reweighted through cosine-based empathy weighting: a scalar field that amplifies attractors aligned in intent, and softens those that diverge.
+This yields not rigidity—but realignment. The agent learns to steer toward resonance without requiring explicit override—a trait of true fluid intelligence.
+The underlying simulation has been implemented and open-sourced as empathy_alignment_simulation.ipynb, available in the DCRE prototype suite.
+
   ![Alt text](https://github.com/seemanair03/dual-channel-resonance-engine/blob/main/images/DCRE.png?raw=true)
 
 ## 3. Philosophical Underpinnings
