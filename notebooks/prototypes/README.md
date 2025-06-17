@@ -1,0 +1,1 @@
+Simulates realignment in a field of conflicting attractors. Empathy is modeled as cosine affinity between directional intent and contextual drift.
