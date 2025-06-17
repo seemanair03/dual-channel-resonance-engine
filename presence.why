@@ -1,0 +1,13 @@
+# presence.why
+
+This system is designed to operate within context rather than in isolation.
+
+Presence here refers to the model's ability to situate itself inside dynamic input space—tracking semantic continuity across turns, queries, or documents.
+
+Key indicators of presence:
+- Responsiveness to evolving context windows
+- Minimal drift across intent layers
+- Recurrence of signal in high-proximity embedding regions
+
+This file does not execute.
+It exists to declare intent.
