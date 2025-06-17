@@ -24,20 +24,20 @@ Subtle and soft-edged, this channel filters inputs through:
 It offers the emotional musculature that shapes output into meaning.
 The channels interact through a dynamic feedback loop—each one modulating the amplitude and frequency of the other’s signal, yielding resonance rather than domination.
 
-![Alt text](https://github.com/seemanair03/dual-channel-resonance-engine/blob/main/images/DCRE.png?raw=true)
-
-## 3. Resonance Protocol
+### Resonance Protocol
 DCRE’s intelligence is not computed; it is tuned. The Resonance Protocol governs this orchestration using:
 - Bidirectional feedback tensors: Influence flows both ways between channels, dynamically reweighing features in real time.
 - Intentive proximity mapping: Going beyond keyword matching to map queries against intent vectors.
 - Entropy gates: Controlled randomness allows the system to escape overfitted deterministic grooves and uncover unexpected yet meaningful paths—akin to butterfly effects in chaotic systems.
 
-## 4. Philosophical Underpinnings
+  ![Alt text](https://github.com/seemanair03/dual-channel-resonance-engine/blob/main/images/DCRE.png?raw=true)
+
+## 3. Philosophical Underpinnings
 This engine is not simply a retrieval pipeline—it is an epistemological statement.
 DCRE embodies a post-deterministic, empathy-centric worldview. Intelligence here is neither centralized nor mechanistic—it is emergent, contextual, and reflective. It echoes the belief that true understanding emerges not from maximization, but from coherence.
 It asks not “How do I answer?” but “How do I listen?”
 
-## 5. Use Cases
+## 4. Use Cases
 - Contextual Retrieval
     Imagine a system that adapts its retrieval strategy based on a user’s emotional tone, prior patterns, and real-time intent—one that finds the right answer because it knows why you asked.
 - Conversational Agents
@@ -45,7 +45,7 @@ It asks not “How do I answer?” but “How do I listen?”
 - Creative Collaborators
     From co-authoring stories to composing music that mirrors a user’s internal weather, DCRE augments human expression with layered, intuitive insight.
 
-## 6. Evaluation Paradigms
+## 5. Evaluation Paradigms
 Traditional metrics such as precision and recall are insufficient for resonance. 
 Instead, DCRE proposes:
 - Resonance Coherence Score (RCS): Measures alignment between input intent and output tone across channels.
@@ -53,11 +53,11 @@ Instead, DCRE proposes:
 - Reflective Fluency: Assesses the system’s ability to generate contextually sensitive and semantically rich content.
 These are not metrics of completion—but of connection.
 
-## 7. Future Directions
+## 6. Future Directions
 The Dual-Channel Resonance Engine is a starting point. Future versions may introduce:
 - Triadic Systems with a third channel—ecosystemic resonance—anchoring AI outputs to planetary well-being.
 - Ethical Tuning Modules trained on pluralistic human value systems.
 - Self-similar recursive architectures, echoing fractals, to support multi-layered alignment across nested contexts.
 
-## 8. Conclusion
+## 7. Conclusion
 In a world of increasing noise, DCRE offers signal. It represents a shift from AI as automation to AI as intuition—a move from processing to participating in the world of meaning. By embracing resonance over reductionism, it invites machines to become not tools, but trusted interlocutors.
