@@ -24,13 +24,13 @@ Subtle and soft-edged, this channel filters inputs through:
 It offers the emotional musculature that shapes output into meaning.
 The channels interact through a dynamic feedback loop—each one modulating the amplitude and frequency of the other’s signal, yielding resonance rather than domination.
 
-![Alt text](https://github.com/seemanair03/dual-channel-resonance-engine/blob/main/images/DCRE.png?raw=true)
-
 ### Resonance Protocol
 DCRE’s intelligence is not computed; it is tuned. The Resonance Protocol governs this orchestration using:
 - Bidirectional feedback tensors: Influence flows both ways between channels, dynamically reweighing features in real time.
 - Intentive proximity mapping: Going beyond keyword matching to map queries against intent vectors.
 - Entropy gates: Controlled randomness allows the system to escape overfitted deterministic grooves and uncover unexpected yet meaningful paths—akin to butterfly effects in chaotic systems.
+
+  ![Alt text](https://github.com/seemanair03/dual-channel-resonance-engine/blob/main/images/DCRE.png?raw=true)
 
 ## 3. Philosophical Underpinnings
 This engine is not simply a retrieval pipeline—it is an epistemological statement.
